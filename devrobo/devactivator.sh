@@ -18,3 +18,9 @@ chmod +x mjpgdevvideo17.sh
 chmod +x mjpgdevvideo18.sh
 chmod +x mjpgdevvideo19.sh
 chmod +x mjpgdevvideo20.sh
+chmod +x mjpgdevvideo21.sh
+chmod +x mjpgdevvideo22.sh
+chmod +x mjpgdevvideo23.sh
+chmod +x mjpgdevvideo24.sh
+chmod +x mjpgdevvideo25.sh
+chmod +x mjpgdevvideo26.sh
